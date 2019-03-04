@@ -1,0 +1,8 @@
+{
+    "version": 2,
+    "name": "dev-splash",
+    "alias": "dev-splash",
+    "builds": [
+        { "src": "*.js", "use": "@now/node" }
+    ]
+}

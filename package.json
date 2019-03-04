@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "micro-dev index.js"
+  },
+  "devDependencies": {
+    "micro": "^9.3.3",
+    "micro-dev": "^3.0.0"
+  }
+}
